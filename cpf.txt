@@ -13,8 +13,9 @@
               /    /
              <    /
               "^./
-CPF ==> Cadastro de Pessoas Físicas
-EX  ==> 123.456.789-00
+CPF     ==> Cadastro de Pessoas Físicas
+EX      ==> 123.456.789-00
+Exploit ==> [0-9][0-9][0-9].[0-9][0-9][0-9].[0-9][0-9]9-[Exploited Numbers]
 -- How to identify the CPF States ? --
 From num 9
 123.456.78 this[9] -00
@@ -49,3 +50,5 @@ Tocantins                 (TO)     # =====> 1
 ====================================
 States were collected from:
 https://en.wikipedia.org/wiki/States_of_Brazil
+information about CPF:
+https://en.wikipedia.org/wiki/Cadastro_de_Pessoas_F%C3%ADsicas
