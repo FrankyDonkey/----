@@ -16,7 +16,6 @@
 CPF ==> Cadastro de Pessoas Físicas
 EX  ==> 123.456.789-00
 -- How to identify the CPF States ? --
--------------- step 1 --------------
 From num 9
 123.456.78 this[9] -00
 ====================================
