@@ -1,0 +1,25 @@
+      .  .-+  ._/V\
+     / \/   \/    /__
+    )                "-+._
+   ."                      \
+  (       B R A S I L       )
+   \        #FrankyDonkey  /
+     \__                 (
+        >_               )
+          \_.           /
+             < CPF Fuk /
+              \   *  _/
+               >    º
+              /    /
+             <    /
+              "^./
+CPF ==> Cadastro de Pessoas Físicas
+EX  ==> 123.456.789-00
+How to identify the CPF city ?
+From num 9
+123.456.78 this[9] -00
+====================================
+Acre                      (AC)     # =====> 2
+Alagoas                   (AL)     # =====> 4
+Amazonas                  (AM)     # =====> 2
+Amapá                     (AP)     # =====> 2
