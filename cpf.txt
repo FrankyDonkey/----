@@ -15,7 +15,7 @@
               "^./
 CPF     ==> Cadastro de Pessoas Físicas
 EX      ==> 123.456.789-00
-Exploit ==> [0-9][0-9][0-9].[0-9][0-9][0-9].[0-9][0-9]9-[Exploited Numbers]
+Exploit ==> [0-9][0-9][0-9].[0-9][0-9][0-9].[0-9][0-9]9-[Exploited Numbers][Exploited Numbers]
 -- How to identify the CPF States ? --
 From num 9
 123.456.78 this[9] -00
