@@ -52,3 +52,9 @@ States were collected from:
 https://en.wikipedia.org/wiki/States_of_Brazil
 information about CPF:
 https://en.wikipedia.org/wiki/Cadastro_de_Pessoas_F%C3%ADsicas
+        ____
+ _    +(____)+
+| |   |      |     __
+| ====+      +====(__)----
+|_|    Tools
+[checker] https://frankydonkey.github.io/----/checker.py
