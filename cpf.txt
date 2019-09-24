@@ -15,7 +15,7 @@
               "^./
 CPF ==> Cadastro de Pessoas Físicas
 EX  ==> 123.456.789-00
-How to identify the CPF city ?
+How to identify the CPF States ?
 From num 9
 123.456.78 this[9] -00
 ====================================
@@ -23,3 +23,29 @@ Acre                      (AC)     # =====> 2
 Alagoas                   (AL)     # =====> 4
 Amazonas                  (AM)     # =====> 2
 Amapá                     (AP)     # =====> 2
+Bahia                     (BA)     # =====> 5
+Ceará                     (CE)     # =====> 3
+Distrito Federal          (DF)     # =====> 1
+Espírito Santo            (ES)     # =====> 7
+Goiás                     (GO)     # =====> 1
+Maranhão                  (MA)     # =====> 3
+Mato Grosso               (MT)     # =====> 1
+Mato Grosso do Sul        (MS)     # =====> 1
+Minas Gerais              (MG)     # =====> 6
+Pará                      (PA)     # =====> 4
+Paraíba                   (PB)     # =====> 4
+Paraná                    (PR)     # =====> 9
+Pernambuco                (PE)     # =====> 4
+Piauí                     (PI)     # =====> 3
+Rio de Janeiro            (RJ)     # =====> 7
+Rio Grande do Norte       (RN)     # =====> 4
+Rio Grande do Sul         (RS)     # =====> 0
+Rondônia                  (RO)     # =====> 2
+Roraima                   (RR)     # =====> 2
+Santa Catarina            (SC)     # =====> 9
+São Paulo                 (SP)     # =====> 8
+Sergipe                   (SE)     # =====> 5
+Tocantins                 (TO)     # =====> 1
+====================================
+States were collected from:
+https://en.wikipedia.org/wiki/States_of_Brazil
