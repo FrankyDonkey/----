@@ -57,4 +57,6 @@ https://en.wikipedia.org/wiki/Cadastro_de_Pessoas_F%C3%ADsicas
 | |   |      |     __
 | ====+      +====(__)----
 |_|    Tools
-[checker] https://frankydonkey.github.io/----/checker.py
+[Gen CPF] http://frankydonkey.net/cpfnoww
+[VALID CPF checker] http://frankydonkey.net/cpfnoww/checker.php
+[Single checker] https://frankydonkey.github.io/----/checker.py
